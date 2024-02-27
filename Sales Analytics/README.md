@@ -24,7 +24,7 @@
 
 **2.** _[P & L Statement by Countries](https://github.com/jyotikumar07/Excel_Sales_Analytics/blob/main/Sales%20Analytics/P%26L%20Statement%20by%20Markets.pdf)_ to show Net sales, Cost of goods sold, Gross margin and Gross margin percentage.
 
-**3.** _[P & L Statement by Months]()_ to show individual fiscal years and Quarters.  
+**3.** _[P & L Statement by Months](https://github.com/jyotikumar07/Excel_Sales_Analytics/blob/main/Sales%20Analytics/P%26L%20Statement%20by%20Months.pdf)_ to show individual fiscal years and Quarters.  
 
 **Purpose of sales analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
 
