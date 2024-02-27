@@ -6,11 +6,11 @@
 
 ### Sales Reports
 
-    **1.** Create a _[customer performance report](https://github.com/jyotikumar07/Excel_Sales_Analytics/blob/main/Sales%20Analytics/Customer%20Performance%20Report.pdf)_ to show the Customer Net Sales Performance over the years 2020 and 2021. 
+**1.** Create a _[customer performance report](https://github.com/jyotikumar07/Excel_Sales_Analytics/blob/main/Sales%20Analytics/Customer%20Performance%20Report.pdf)_ to show the Customer Net Sales Performance over the years 2020 and 2021. 
 
-    **2.** Conduct a comprehensive comparison between _[Countries performances and Net sales targets](https://github.com/jyotikumar07/Excel_Sales_Analytics/blob/main/Sales%20Analytics/market_performance_targets.pdf)_
+**2.** Conduct a comprehensive comparison between _[Countries performances and Net sales targets](https://github.com/jyotikumar07/Excel_Sales_Analytics/blob/main/Sales%20Analytics/market_performance_targets.pdf)_
 
-    **3.** _[Shows Top 10 Products]()_ and their Percentage difference in the year 2020 and 2021. 
+**3.** _[Shows Top 10 Products]()_ and their Percentage difference in the year 2020 and 2021. 
 
 - **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
 
@@ -18,10 +18,9 @@
 
 - **Role of reports:** Determine effective customer discounts, facilitate negotiations with consumers, and identify potential business expansion opportunities in promising countries.
 
+### Finance Reports
 
-  ### Finance Reports
-
-    **1.** Create a _[Profit and Loss (P&L) Statement by Fiscal Years 2019,2020,2021](https://github.com/jyotikumar07/Excel_Sales_Analytics/blob/main/Sales%20Analytics/P%26L%20Statement%20by%20Fiscal%20Year.pdf)_ and in addition showing the percentage differences.
+**1.** Create a _[Profit and Loss (P&L) Statement by Fiscal Years 2019,2020,2021](https://github.com/jyotikumar07/Excel_Sales_Analytics/blob/main/Sales%20Analytics/P%26L%20Statement%20by%20Fiscal%20Year.pdf)_ and in addition showing the percentage differences.
 
 - **Purpose of sales analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
 
