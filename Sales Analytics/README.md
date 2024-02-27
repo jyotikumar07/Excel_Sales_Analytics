@@ -5,7 +5,7 @@
 ## Sales and Finance Reports
 - **Sales Reports**
 
-    **1.** Create a _[customer performance report]()_ 
+    **1.** Create a _[customer performance report](https://github.com/jyotikumar07/Excel_Sales_Analytics/blob/main/Sales%20Analytics/Customer%20Performance%20Report.pdf)_ to show the Customer Net Sales Performance over the years 2020 and 2021. 
 
     **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/jyotikumar07/Sales_Analytics/blob/main/market_performance_targets.pdf)_
 
