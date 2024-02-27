@@ -1,7 +1,9 @@
-## Sales Report :
+# Excel Sales Analytics Project
 
 
-- **Project objective:** 
+
+## Sales and Finance Reports
+- **Sales Reports**
 
     **1.** Create a _[customer performance report](https://github.com/jyotikumar07/Sales_Analytics/blob/main/Customer_Performance_Report.pdf)_ 
 
@@ -14,9 +16,9 @@
 - **Role of reports:** Determine effective customer discounts, facilitate negotiations with consumers, and identify potential business expansion opportunities in promising countries.
 
 
-## Finance Report :
+- **Finance Report**
 
-- **Project objective:** 
+-- **Project objective:** 
 
     **1.** Create Profit and Loss (P&L) reports.
 
