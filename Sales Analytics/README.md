@@ -10,7 +10,7 @@
 
 **2.** Conduct a comprehensive comparison between _[Countries performances and Net sales targets](https://github.com/jyotikumar07/Excel_Sales_Analytics/blob/main/Sales%20Analytics/market_performance_targets.pdf)_
 
-**3.** _[Shows Top 10 Products]()_ and their Percentage difference in the year 2020 and 2021. 
+**3.** _[Shows Top 10 Products](https://github.com/jyotikumar07/Excel_Sales_Analytics/blob/main/Sales%20Analytics/Top_10_Products.pdf)_ and their Percentage difference in the year 2020 and 2021. 
 
 **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
 
