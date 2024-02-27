@@ -4,7 +4,7 @@
 
 ## Sales and Finance Reports
 
-- **Sales Reports**
+### Sales Reports
 
     **1.** Create a _[customer performance report](https://github.com/jyotikumar07/Excel_Sales_Analytics/blob/main/Sales%20Analytics/Customer%20Performance%20Report.pdf)_ to show the Customer Net Sales Performance over the years 2020 and 2021. 
 
@@ -19,9 +19,9 @@
 - **Role of reports:** Determine effective customer discounts, facilitate negotiations with consumers, and identify potential business expansion opportunities in promising countries.
 
 
-- **Finance Report**
+  ### Finance Reports
 
-    **1.** Create a _[Profit and Loss (P&L) Statement by Fiscal Years 2019,2020,2021]()_ and in addition showing the percentage differences.
+    **1.** Create a _[Profit and Loss (P&L) Statement by Fiscal Years 2019,2020,2021](https://github.com/jyotikumar07/Excel_Sales_Analytics/blob/main/Sales%20Analytics/P%26L%20Statement%20by%20Fiscal%20Year.pdf)_ and in addition showing the percentage differences.
 
 - **Purpose of sales analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
 
