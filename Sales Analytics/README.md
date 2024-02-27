@@ -22,7 +22,7 @@
 
 **1.** Create a _[Profit and Loss (P&L) Statement by Fiscal Years 2019,2020,2021](https://github.com/jyotikumar07/Excel_Sales_Analytics/blob/main/Sales%20Analytics/P%26L%20Statement%20by%20Fiscal%20Year.pdf)_ and in addition showing the percentage differences.
 
-**2.** _[P & L Statement by Countries]()_ to show Net sales, Cost of goods sold, Gross margin and Gross margin percentage.
+**2.** _[P & L Statement by Countries](https://github.com/jyotikumar07/Excel_Sales_Analytics/blob/main/Sales%20Analytics/P%26L%20Statement%20by%20Markets.pdf)_ to show Net sales, Cost of goods sold, Gross margin and Gross margin percentage.
 
 **3.** _[P & L Statement by Months]()_ to show individual fiscal years and Quarters.  
 
